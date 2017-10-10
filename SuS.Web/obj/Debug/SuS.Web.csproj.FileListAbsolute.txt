@@ -1,0 +1,371 @@
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\ApplicationInsights.config
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\csc.exe
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\csc.exe.config
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\csc.rsp
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\csi.exe
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\csi.exe.config
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\csi.rsp
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Console.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\vbc.exe
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\vbc.exe.config
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\vbc.rsp
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Antlr3.Runtime.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\EntityFramework.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Newtonsoft.Json.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Owin.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\SuS.Data.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\SuS.Service.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.Helpers.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.Mvc.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.Optimization.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.Razor.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.WebPages.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\WebGrease.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\SuS.Data.pdb
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\SuS.Data.dll.config
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\SuS.Service.pdb
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.Helpers.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.Mvc.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.Optimization.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.Razor.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.WebPages.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Newtonsoft.Json.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\EntityFramework.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\obj\Debug\SuS.Web.csprojResolveAssemblyReference.cache
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\obj\Debug\SuS.Web.csproj.CoreCompileInputs.cache
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\obj\Debug\SuS.Web.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Web\obj\Debug\SuS.Web.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\ApplicationInsights.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\csc.exe
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\csc.exe.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\csc.rsp
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\csi.exe
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\csi.exe.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\csi.rsp
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Console.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\vbc.exe
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\vbc.exe.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\vbc.rsp
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Web.dll.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Web.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Web.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Antlr3.Runtime.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\EntityFramework.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Newtonsoft.Json.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Owin.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Data.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Service.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.Helpers.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.Mvc.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.Optimization.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.Razor.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\WebGrease.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Data.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Service.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.Helpers.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.Mvc.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.Optimization.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.Razor.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Newtonsoft.Json.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\EntityFramework.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\obj\Debug\SuS.Web.csprojResolveAssemblyReference.cache
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\obj\Debug\SuS.Web.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\obj\Debug\SuS.Web.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Data.dll.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\obj\Debug\SuS.Web.csproj.CoreCompileInputs.cache
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Web\bin\SuS.Service.dll.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\ApplicationInsights.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\csc.exe
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\csc.exe.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\csc.rsp
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\csi.exe
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\csi.exe.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\csi.rsp
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.AppContext.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Console.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\vbc.exe
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\vbc.exe.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\vbc.rsp
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Web.dll.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Web.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Web.pdb
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Antlr3.Runtime.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\EntityFramework.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.Web.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Newtonsoft.Json.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Owin.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Data.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Service.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.Helpers.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.Mvc.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.Optimization.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.Razor.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\WebGrease.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Data.pdb
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Data.dll.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Service.pdb
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\SuS.Service.dll.config
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.Helpers.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.Mvc.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.Optimization.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.Razor.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Antlr3.Runtime.pdb
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Newtonsoft.Json.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\EntityFramework.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\bin\Microsoft.AI.Web.xml
+C:\Users\dango\Google Drive\SuS\SuS.Web\obj\Debug\SuS.Web.csprojResolveAssemblyReference.cache
+C:\Users\dango\Google Drive\SuS\SuS.Web\obj\Debug\SuS.Web.csproj.CoreCompileInputs.cache
+C:\Users\dango\Google Drive\SuS\SuS.Web\obj\Debug\SuS.Web.dll
+C:\Users\dango\Google Drive\SuS\SuS.Web\obj\Debug\SuS.Web.pdb

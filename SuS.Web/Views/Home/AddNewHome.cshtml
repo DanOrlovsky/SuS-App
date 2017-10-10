@@ -1,0 +1,84 @@
+﻿@using SuS.Web.ViewModels
+@model AddNewHomeViewModel
+
+<div id="show-loading">
+    <span id="loading-icon"><i class="fa fa-spinner fa-spin fa-3x"></i></span>
+</div>
+<div class="container">
+    <div class="row">
+        <h2 style="text-align: center;">Add a Home To Build a Stylesheet</h2>
+        <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
+            <div class="app-form">
+                @using (Html.BeginForm("SetupUser", "Install", FormMethod.Post, new { @id = "home-form" } ))
+                {
+                    <div class="form-horizontal">
+                        @Html.ValidationSummary()
+                        @Html.AntiForgeryToken()
+                        <div class="form-group">
+                            @Html.LabelFor(x => x.BuyerNames, new { @class = "col-md-3 control-label" })
+                            <div class="col-xs-9">
+                                @Html.EditorFor(x => x.BuyerNames, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(x => x.BuyerNames, string.Empty, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(x => x.Address, new { @class = "col-md-3 control-label" })
+                            <div class="col-xs-9">
+                                @Html.EditorFor(x => x.Address, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(x => x.Address, string.Empty, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(x => x.LotNumber, new { @class = "col-md-3 control-label" })
+                            <div class="col-xs-4">
+                                @Html.EditorFor(x => x.LotNumber, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(x => x.LotNumber, string.Empty, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(x => x.PurchasePrice, new { @class = "col-md-3 control-label" })
+                            <div class="col-xs-9">
+                                @Html.EditorFor(x => x.PurchasePrice, new { htmlAttributes = new { @class = "form-control", @id = "price-input" } })
+                                @Html.ValidationMessageFor(x => x.PurchasePrice, string.Empty, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(x => x.Notes, new { @class = "col-md-3 control-label" })
+                            <div class="col-xs-9">
+                                @Html.EditorFor(x => x.Notes, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(x => x.Notes, string.Empty, new { @class = "label label-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-xs-12 ">
+                                <input type="reset" value="Clear" class="col-md-4 btn btn-default" />
+                                <input type="submit" value="Submit" id="submit" class="col-md-4 pull-right btn btn-success" />
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div id="results-display"></div>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script>
+
+        $('form').on('submit', function (e) {
+            e.preventDefault();
+            $("#show-loading").css("display", "block");
+            $.ajax({
+                method: "POST",
+                url: "AddNewHome",
+                data: $("#home-form").serialize(),
+                success: function (response) {
+                    $("#show-loading").css("display", "none");
+                    $("#results-display").html(response);
+                },
+            })
+        });
+    </script>
+}

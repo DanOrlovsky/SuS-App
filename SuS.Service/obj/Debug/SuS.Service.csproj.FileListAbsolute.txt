@@ -1,0 +1,41 @@
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Service\bin\Debug\SuS.Service.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Service\bin\Debug\SuS.Service.pdb
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Service\obj\Debug\SuS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Service\obj\Debug\SuS.Service.dll
+C:\Users\Dan-ArcWelders\Documents\Visual Studio 2017\Projects\SuS\SuS.Service\obj\Debug\SuS.Service.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Service.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Service.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\obj\Debug\SuS.Service.csprojResolveAssemblyReference.cache
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\obj\Debug\SuS.Service.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\obj\Debug\SuS.Service.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Service.dll.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\EntityFramework.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Data.dll
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Data.pdb
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Data.dll.config
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\EntityFramework.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dan-ArcWelders\Google Drive\SuS\SuS.Service\obj\Debug\SuS.Service.csproj.CoreCompileInputs.cache
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Service.dll.config
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Service.dll
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Service.pdb
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\EntityFramework.dll
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Data.dll
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Data.pdb
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\SuS.Data.dll.config
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\EntityFramework.xml
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dango\Google Drive\SuS\SuS.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dango\Google Drive\SuS\SuS.Service\obj\Debug\SuS.Service.csprojResolveAssemblyReference.cache
+C:\Users\dango\Google Drive\SuS\SuS.Service\obj\Debug\SuS.Service.csproj.CoreCompileInputs.cache
+C:\Users\dango\Google Drive\SuS\SuS.Service\obj\Debug\SuS.Service.dll
+C:\Users\dango\Google Drive\SuS\SuS.Service\obj\Debug\SuS.Service.pdb

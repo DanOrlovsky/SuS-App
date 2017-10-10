@@ -1,0 +1,109 @@
+﻿@model SuS.Web.ViewModels.RegisterViewModel
+
+<div class="row">
+    <h2 style="text-align: center;">Install SuS Application</h2>
+    <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2">
+        <div class="install-form">
+            <p>
+                Please fill out the following form to get your application up and running.
+            </p>
+            <p>
+                You may need to contact your server administrator for the connection string.  This is an Asp.Net application, so
+                the connection string will look like:
+            </p>
+            <p>
+                <em>Data Source=SQL5016.SmarterASP.NET;Initial Catalog=DB_9AE062_namegen;User Id=DB_9AE062_namegen_admin;Password=YOUR_DB_PASSWORD;</em>
+            </p>
+            @using (Html.BeginForm("SetupUser", "Install", FormMethod.Post))
+            {
+                <div class="form-horizontal">
+                    @Html.ValidationSummary()
+                    @Html.AntiForgeryToken()
+                    @Html.HiddenFor(x => x.UserName)
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.CompanyName, new { @class = "col-md-3 control-label" })
+                        <div class="col-xs-9">
+                            @Html.EditorFor(x => x.CompanyName, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(x => x.CompanyName, string.Empty, new { @class = "label label-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.FirstName, new { @class = "col-md-3 control-label" })
+                        <div class="col-xs-9">
+                            @Html.EditorFor(x => x.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(x => x.FirstName, string.Empty, new { @class = "label label-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.LastName, new { @class = "col-md-3 control-label" })
+                        <div class="col-xs-9">
+                            @Html.EditorFor(x => x.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(x => x.LastName, string.Empty, new { @class = "label label-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.Email, new { @class = "col-md-3 control-label" })
+                        <div class="col-xs-9">
+                            @Html.EditorFor(x => x.Email, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(x => x.Email, string.Empty, new { @class = "label label-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.Password, new { @class = "col-md-3 control-label" })
+                        <div class="col-xs-9">
+                            @Html.EditorFor(x => x.Password, new { htmlAttributes = new { @class = "form-control", @id = "password" } })
+                            @Html.ValidationMessageFor(x => x.Password, string.Empty, new { @class = "label label-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.ConfirmPassword, new { @class = "col-md-3 control-label" })
+                        <div class="col-xs-9">
+                            @Html.EditorFor(x => x.ConfirmPassword, new { htmlAttributes = new { @class = "form-control", @id = "confirm-password" } })
+                            @Html.ValidationMessageFor(x => x.ConfirmPassword, string.Empty, new { @class = "label label-danger" })
+                            <label id="passwordsMatch" class="label label-success" style="display: none;">Passwords Match!</label>
+                            <label id="passwordWarning" class="label label-danger" style="display: none;">Passwords do not match</label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-xs-12 ">
+                            <input type="reset" value="Clear" class="col-md-4 btn btn-default" />
+                            <input type="submit" value="Submit" id="submit" class="col-md-4 pull-right btn btn-success" />
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+        var passBox;
+        var passConfirm;
+        function updatePasswordDisplay() {
+            passBox = $("#password").val();
+            passConfirm = $("#confirm-password").val();
+            if (passBox != passConfirm) {
+                $("#passwordWarning").css("display", "block");
+                $("#passwordsMatch").css("display", "none");
+            } else {
+                $("#passwordWarning").css("display", "none");
+                $("#passwordsMatch").css("display", "block");
+            }
+            if (passBox === "" && passConfirm === "") {
+                $("#passwordWarning").css("display", "none");
+                $("#passwordsMatch").css("display", "none");
+            }
+
+        }
+        $("#password").on("keyup", function () {
+            updatePasswordDisplay();
+        })
+        $("#confirm-password").on("keyup", function () {
+            updatePasswordDisplay();
+        })
+    </script>
+}
