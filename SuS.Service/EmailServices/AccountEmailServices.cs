@@ -21,6 +21,8 @@ namespace SuS.Service.EmailServices
 
         public bool SendVerifyEmail(ApplicationUser user, string emailAddress)
         {
+            MailAddress from = new MailAddress("dano@wedotechstuff.com", "SuS Application Verification");
+            MailAddress to = new MailAddress(user.Email, user.FancyName);
             try
             {
                 MailMessage message = new MailMessage(from, to);

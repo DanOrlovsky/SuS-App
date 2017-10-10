@@ -1,9 +1,33 @@
 ﻿@using SuS.Data.Models
 @model Home
+@{ 
+    Layout = null;
+}
 
-
-@if(Model != null)
+@if (Model != null)
 {
-
-
+    <div class="container">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <td>Buyers</td>
+                    <td>Address</td>
+                    <td>Lot Number</td>
+                    <td>Purchase Price</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.BuyerNames</td>
+                    <td>@Model.Address</td>
+                    <td>@Model.LotNumber</td>
+                    <td>@Model.PurchasePrice</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>
+            Does this information look correct?
+        </p>
+        @Html.ActionLink("Approve", "ApproveModel", "Home",  Model, new {@class="btn btn-success" } )
+    </div>
 }

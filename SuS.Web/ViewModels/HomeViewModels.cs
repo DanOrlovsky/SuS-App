@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SuS.Data.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -45,6 +46,17 @@ namespace SuS.Web.ViewModels
 
                 return temp;
             }
+        }
+
+        public static Home ConvertToHomeModel(string buyerNames, string address, int lotNumber, string notes, double purchasePrice)
+        {
+            return new Home {
+                BuyerNames = buyerNames,
+                Address = address,
+                LotNumber = lotNumber,
+                Notes = notes,
+                PurchasePrice = purchasePrice
+            };
         }
     }
 }

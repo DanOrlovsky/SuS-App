@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseEntity.cs" />
+    <Compile Include="DAL\IFactory.cs" />
     <Compile Include="DAL\SuSDbContext.cs" />
     <Compile Include="Models\EmailSetting.cs" />
     <Compile Include="Models\Option.cs" />
@@ -62,6 +63,9 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\OptionsCategory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\EfRepository.cs" />
+    <Compile Include="Repositories\HomeRepository.cs" />
+    <Compile Include="Repositories\IRepository.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

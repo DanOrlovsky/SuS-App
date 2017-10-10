@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-using SuS.Service.FileServices;
+﻿using SuS.Data.Models;
 using SuS.Service.MemberServices;
 using SuS.Web.ViewModels;
-using SuS.Data.Models;
+using System;
+using System.Web.Mvc;
 
 namespace SuS.Web.Controllers
 {
@@ -35,14 +31,16 @@ namespace SuS.Web.Controllers
             {
                 throw new Exception("Model not complete");
             }
-            Home newHome = new Home();
-            newHome.Address = model.Address;
-            newHome.BuyerNames = model.BuyerNames;
-            newHome.LotNumber = model.LotNumber;
-            newHome.Notes = model.Notes;
-            newHome.PurchasePrice = model.PurchasePrice;
+
+            Home newHome = AddNewHomeViewModel.ConvertToHomeModel(model.BuyerNames, model.Address, model.LotNumber, model.Notes, model.PurchasePrice);
 
             return View("_ApproveHomeModel", newHome);
+        }
+
+        [HttpGet]
+        public ActionResult ApproveModel(Home model)
+        {
+            return View();
         }
     }
 }
