@@ -28,6 +28,12 @@
         <p>
             Does this information look correct?
         </p>
-        @Html.ActionLink("Approve", "ApproveModel", "Home",  Model, new {@class="btn btn-success" } )
+        @Html.ActionLink("Approve", "ApproveModel", "Home",  Model, new {@class="btn btn-success", @id="btn-approve" } )
+
+        <script>
+            $("#btn-approve").on("click", function () {
+                $("#show-loading").css("display", "block");
+            });
+        </script>
     </div>
 }

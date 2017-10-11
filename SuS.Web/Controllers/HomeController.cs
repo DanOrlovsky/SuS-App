@@ -1,4 +1,5 @@
 ﻿using SuS.Data.Models;
+using SuS.Data.Repositories;
 using SuS.Service.MemberServices;
 using SuS.Web.ViewModels;
 using System;
@@ -8,6 +9,15 @@ namespace SuS.Web.Controllers
 {
     public class HomeController : Controller
     {
+
+        private readonly HomeRepository _homeRepository;
+
+        public HomeController()
+        {
+            _homeRepository = new HomeRepository();
+        }
+
+
         public ActionResult Index()
         {
             if(!RoleActions.RoleExists(RoleActions.SuperUserRole))
@@ -40,7 +50,8 @@ namespace SuS.Web.Controllers
         [HttpGet]
         public ActionResult ApproveModel(Home model)
         {
-            return View();
+            _homeRepository.Add(model);
+            return RedirectToAction("Index");
         }
     }
 }
